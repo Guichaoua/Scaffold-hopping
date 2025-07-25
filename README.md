@@ -1,7 +1,7 @@
 # Large-step Scaffold Hopping Benchmark
 
 
-This repository gathers the code from the article [Exploring isofunctional molecules: Design of a benchmark and evaluation of prediction performance](https://onlinelibrary.wiley.com/doi/10.1002/minf.202200216 by Pinel & al.
+This repository gathers the code from the article [Exploring isofunctional molecules: Design of a benchmark and evaluation of prediction performance](https://onlinelibrary.wiley.com/doi/10.1002/minf.202200216) by Pinel & al.
 
 You can download the datasets [here](https://github.com/iktos/scaffold-hopping)
 
